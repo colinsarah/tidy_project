@@ -45,3 +45,5 @@ dist/
 >twine upload dist/*
 
 上传完成后，我们的项目就成功地发布到PyPI了
+
+>https://pypi.org/project/tidy-project/0.1/
